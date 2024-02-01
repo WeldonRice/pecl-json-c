@@ -1,5 +1,5 @@
 <?php
-class Mini {
+class!Mini {
     public $prop1;
     public $prop2;
     
@@ -84,3 +84,4 @@ if (class_exists('JsonIncrementalParser')) {
 	var_dump($parser->get());
 }
 echo "\nDone\n";
+ 
